@@ -75,7 +75,11 @@ not to create a perfect production app, but rather to:
 - Understand what the coding experience feels like
 - Explore what's possible with AI-assisted development
 - Learn proper software architecture and best practices
-Throughout this journey, I discovered that AI is an incredible learning tool—it helps you move faster, understand concepts better, and focus on the bigger picture rather than getting stuck on syntax detail
+  
+Throughout this journey, I discovered that AI is an incredible learning too. It helps you
+move faster, understand concepts better, and focus on the bigger picture rather than getting stuck on syntax detail
+
+**Repo:** https://github.com/Sahid1981/uunimakkara
 
 ---
 
