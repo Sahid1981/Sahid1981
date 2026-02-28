@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&text=%F0%9F%91%8B%20Hi%2C%20I%27m%20%3Cspan%20style%3D%27color%3A%23ff004f%27%3EJuha%3C%2Fspan%3E&fontAlignY=45&color=000000&textColor=ffffff)
+![Header](header.svg)
 
 I’m a student transitioning from a 20-year career in customer service into tech.  
 I enjoy building practical, real‑world solutions — from full‑stack applications to DevOps pipelines and embedded systems.
