@@ -65,6 +65,21 @@ A full‑stack banking & ATM simulation system.
 
 ---
 
+### 🌭 **Uunimakkara Tutka**
+
+This project is a learning venture built largely with AI assistance. The primary goal was 
+not to create a perfect production app, but rather to:
+
+- Learn Android app development from the ground up
+- Master Kotlin programming language
+- Understand what the coding experience feels like
+- Explore what's possible with AI-assisted development
+- Learn proper software architecture and best practices
+Throughout this journey, I discovered that AI is an incredible learning tool—it helps you move faster, understand concepts better, and focus on the bigger picture rather than getting stuck on syntax detail
+
+---
+
+
 ## 🌱 Currently Learning
 
 - Full‑stack development (Node.js, Qt, SQL)  
