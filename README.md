@@ -15,6 +15,7 @@ I love learning new technologies and improving my skills through hands‑on proj
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
@@ -74,7 +75,8 @@ A full‑stack banking & ATM simulation system.
 ---
 
 ## 📫 Contact
-*(You can add LinkedIn, portfolio or email here)*
+- 🌐 Portfolio: [sahid1981.github.io/myportfolio](https://sahid1981.github.io/myportfolio/)
+- 💼 LinkedIn: [linkedin.com/in/juhajermalainen](https://www.linkedin.com/in/juhajermalainen/)
 
 ---
 
